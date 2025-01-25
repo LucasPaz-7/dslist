@@ -2,9 +2,7 @@
 
 **1. Me chamo Lucas, e assisti o intenssivão do Nélio**
 
-fiz o projeto na minha maquina e aprendi o que ele ensinou, e clonei o projeto do github dele
-e coloquei no meu como forma
-de agradecimento
+fiz o projeto na minha maquina e aprendi o que ele ensinou, muito boa as aulas dele
 
 ## Modelo de domínio DSList
 
